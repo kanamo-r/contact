@@ -60,12 +60,22 @@ img{
   justify-content: space-between;
   margin: 30px 0px;
 }
+.sec_02_n00 {
+  border-bottom: 1px solid #146e32;
+  color: #146e32;
+  margin-left: 5px;
+}
 .sec_02_box h3{
   align-self: center;
 }
 input {
   border: 1px solid #cccccc;
   padding: 10px;
+}
+select {
+  border: 1px solid #cccccc;
+  padding: 10px;
+  color: #cccccc;
 }
 .sec_03 {
   margin: 100px 0;
