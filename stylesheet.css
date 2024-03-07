@@ -49,12 +49,23 @@ img{
 }
 .sec_01_box {
   text-align: center;
+  margin-bottom: 100px;
 }
 .sec_02 {
   margin: 80px 0px 40px 30px;
+  border-top: 1px solid #cccccc;
 }
 .sec_02_box {
   display: flex;
+  justify-content: space-between;
+  margin: 30px 0px;
+}
+.sec_02_box h3{
+  align-self: center;
+}
+input {
+  border: 1px solid #cccccc;
+  padding: 10px;
 }
 .sec_03 {
   margin: 100px 0;
